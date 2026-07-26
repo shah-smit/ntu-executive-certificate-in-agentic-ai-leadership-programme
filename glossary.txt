@@ -1,0 +1,204 @@
+Access Control
+  Mechanisms that restrict access to systems, data and AI tools.
+Agentic AI
+  AI systems capable of independently planning, deciding and executing tasks toward goals.
+Agent Lifecycle
+  The stages through which an AI agent is designed, deployed, monitored and improved.
+Agent Platform
+  Software environment used to build, manage and deploy AI agents.
+Agentic Workflow
+  A workflow in which AI agents perform coordinated tasks autonomously.
+AI Agent
+  Autonomous software system that can perform tasks, make decisions and interact with tools.
+AI Architect
+  Leadership role focused on designing AI-enabled workflows, systems and operating models.
+AI-Augmented Workforce
+  Employees working alongside AI systems to improve productivity and outcomes.
+AI Copilot
+  AI assistant that supports humans in completing tasks while remaining under human supervision.
+AI Ecosystem
+  Network of AI models, tools, platforms, partners and data sources.
+AI Factory
+  Organised infrastructure that continuously develops, deploys and scales AI solutions.
+AI Governance
+  Policies, processes, and controls that guide the responsible use of AI.
+AI Maturity
+  The level of organisational capability in adopting and scaling AI.
+AI Native Organisation
+  Organisation designed around AI-enabled processes and decision-making.
+AI Orchestrator
+  Leadership role focused on coordinating people, AI systems, workflows and decisions.
+AI Power Stack
+  Layers of technology that enable AI capabilities across an organisation.
+AI Readiness
+  Degree to which an organisation is prepared to adopt AI successfully.
+AI Steward
+  Leadership role responsible for trust, accountability and responsible AI use.
+Alignment
+  Ensuring AI behaviour and outputs reflect intended goals and human values.
+Algorithmic Impact Assessment
+  Structured evaluation of potential risks and impacts of AI systems.
+API
+  Interface that enables software systems to communicate and exchange information.
+API Key
+  Credential used to authenticate and authorise access to an API.
+Audit Trail
+  Record of actions, decisions, and events performed by users or AI systems.
+Autonomous Workflow
+  Business process that can execute multiple tasks with minimal human intervention.
+Brand Integrity
+  Maintaining consistent brand voice, values, and customer experience across AI interactions.
+Business Transformation
+  Fundamental redesign of business operations, models or capabilities.
+Change Management
+  Structured approach for helping organisations adopt new technologies and ways of working.
+Chatbot
+  Conversational system designed primarily to answer questions and interact with users.
+Cognitive Capital
+  Organisational knowledge and thinking capability that creates long-term value.
+Cognitive Debt
+  Decline in critical thinking caused by excessive dependence on automation.
+Compliance
+  Adherence to legal, regulatory and organisational requirements.
+Computational Thinking
+  Breaking complex problems into logical, repeatable steps for execution.
+Connector
+  Integration that links AI systems to external applications, databases or services.
+Context Window
+  Amount of information an AI model can process at one time.
+CRM Integration
+  Connecting AI systems with customer relationship management platforms.
+Customer Experience
+  Overall quality of interactions between customers and an organisation.
+Data Privacy
+  Protection of personal and sensitive information from misuse or unauthorised access.
+Decision Engine
+  System that automates or supports business decisions based on rules or intelligence.
+Decision Rights
+  Clear allocation of authority for making decisions within workflows.
+Demo
+  Early demonstration of a solution used to showcase feasibility.
+Digital Teammate
+  AI system that collaborates with humans to complete work and achieve goals.
+Digital Transformation
+  Strategic use of technology to redesign business operations and value creation.
+Embedding
+  Numerical representation of information used to capture meaning and relationships.
+Enterprise AI
+  Organisation-wide deployment of AI across functions, teams and workflows.
+Ethical AI
+  Development and use of AI in ways that are fair, transparent and responsible.
+Explainability
+  Ability to understand and communicate how an AI system reaches conclusions.
+Failure Mode
+  Common way in which an AI system or workflow may fail.
+Fallback Mechanism
+  Backup process used when an AI system cannot complete a task reliably.
+Federal Operating Model
+  AI governance approach where business units retain significant autonomy.
+Fine-tuning
+  Adapting a pre-trained AI model for a specific task or domain.
+Foundation Model
+  Large general-purpose AI model that can be adapted for many applications.
+Generative AI
+  AI that creates content such as text, images, audio, video or code.
+Hallucination
+  AI-generated output that appears plausible but is incorrect or fabricated.
+High-Quality Judgement
+  Sound decision-making that combines reasoning, context, ethics and experience.
+Human-in-the-Loop
+  Human oversight or intervention within an AI-enabled workflow.
+Human Override
+  Ability for people to intervene and override AI decisions or actions.
+Inference
+  Process of generating outputs from a trained AI model.
+Innovation
+  Creation and implementation of new ideas, products, services or processes.
+Knowledge Base
+  Organised repository of information used by people or AI systems.
+KPI Evolution
+  Shift in performance metrics as organisations move toward AI-enabled operations.
+Large Language Model (LLM)
+  AI model trained on vast text data to understand and generate language.
+Latency
+  Time taken for a system to respond to a request.
+Leadership Bottleneck
+  Situation where decision-making slows organisational progress.
+Learning Organisation
+  Organisation that continuously adapts through knowledge and experimentation.
+Memory (Agents)
+  Ability of an AI agent to retain and use information from previous interactions.
+Model Evaluation
+  Assessment of AI system performance against predefined objectives.
+Multi-Agent Platform
+  Environment that enables coordination of multiple AI agents.
+Multi-Agent System
+  Multiple AI agents working together to achieve a shared objective.
+Multimodal AI
+  AI that can process and generate multiple forms of data such as text, images and audio.
+Operational Efficiency
+  Improved productivity and performance through better processes and technology.
+Operating Model
+  Structure that defines how an organisation delivers value.
+Orchestration Layer
+  Component that coordinates agents, tools, and workflows.
+Personalisation at Scale
+  Delivering tailored experiences efficiently to large audiences.
+Pilot
+  Small-scale implementation used to validate an idea before broader deployment.
+Planning (Agents)
+  Process by which AI agents break goals into tasks and actions.
+Process Optimisation
+  Improving workflows to increase speed, quality, efficiency or effectiveness.
+Production Deployment
+  Moving a validated AI solution into live operations.
+Prompt
+  Instruction or input provided to an AI system.
+Prompt Engineering
+  Designing effective prompts to improve AI performance and outputs.
+Proprietary Model
+  AI model owned and controlled by a specific organisation.
+Responsible AI
+  Framework for ensuring AI is safe, ethical, accountable and trustworthy.
+Retrieval-Augmented Generation (RAG)
+  Technique that combines information retrieval with AI-generated responses.
+Risk Management
+  Identifying, assessing and reducing business, operational and technology risks.
+Role Redesign
+  Restructuring work and responsibilities to leverage AI capabilities.
+Scalability
+  Ability of a solution to maintain performance as demand increases.
+Scaling Foundation
+  Core capabilities required to expand AI adoption successfully.
+Semantic Search
+  Search that focuses on meaning and intent rather than exact keywords.
+SOP Evolution
+  Transformation of standard operating procedures in AI-enabled organisations.
+Strategic Framing
+  Defining business problems, opportunities, and objectives before implementation.
+Throughput
+  Amount of work or requests a system can process within a given period.
+Tone Consistency
+  Maintaining a consistent communication style across AI interactions.
+Tool Use
+  Ability of an AI agent to access and interact with external systems or applications.
+Trustworthy AI
+  AI systems designed to be reliable, safe, transparent, and accountable.
+Vector Database
+  Database optimised for storing and searching embeddings.
+Vendor Lock-in
+  Dependence on a single technology provider that limits flexibility.
+Vibe Coding
+  Building applications through natural-language instructions with AI assistance.
+Workflow
+  Sequence of activities required to complete a business process.
+Workflow Automation
+  Use of technology to automatically perform workflow tasks.
+Workflow Maturity
+  Degree of sophistication in workflow design, automation and optimisation.
+Workflow Orchestration
+  Coordinating tasks, systems and agents across a workflow.
+Workflow Redesign
+  Reimagining business processes to take advantage of AI and automation.
+WHY–WHAT–HOW Framework
+  Leadership framework that connects purpose, strategy and execution.
