@@ -1,0 +1,81 @@
+Module Outcomes.pngLearning Objectives Addressed
+Describe how multi-agent systems collaborate to complete complex tasks within enterprise workflows.
+Apply basic workflow orchestration tools to conceptualise simple agent-based processes.
+Translate common workplace inefficiencies into potential agentic workflow opportunities.
+Experience how AI can turn a real work problem into a usable assistant in minutes and understand where leadership judgment is still needed.
+
+Step 1: Choose a Real Work Problem 
+Think of one problem from your work that:
+
+Happens regularly
+Requires decisions, interpretation or information
+Causes delays, escalations or inconsistent outcomes
+Avoid choosing:
+
+Vague ideas
+Innovation buzzwords
+"Nice-to-have" apps
+Write your problem using this sentence:
+
+We want to help [who] do [what] better.
+
+Examples
+
+We want to help frontline supervisors interpret SOPs correctly.
+We want to help managers prepare fair performance conversations.
+We want to help leaders make sense of performance reports.
+Your task: Write one problem statement.
+
+Step 2: Define Your Assistant 
+Answer these three questions only.
+
+Who will use it?
+
+Who is the user?
+What should it improve?
+
+What should become easier, faster or clearer?
+What goes in and what comes out?
+
+What will the user ask?
+What should the assistant provide?
+Remember:
+
+Keep your answers simple.
+Do not list features.
+Do not use technical terms.
+Your task: Write your answers to all three questions.
+
+Step 3: Build Your Assistant in Lovable 
+Open Lovable.
+Type one clear prompt describing your assistant.
+Example prompts
+
+"Build an internal assistant for managers to prepare performance conversations, summarize feedback and suggest next steps aligned to policy."
+
+"Build a frontline assistant that answers SOP questions and suggests next actions based on context."
+
+Let Lovable generate the app.
+Try using it straight away.
+Do not spend time polishing or making multiple changes.
+Your task: Build the first version of your AI work assistant.
+
+Step 4: Test and Improve Once 
+Ask your assistant 2–3 realistic questions.
+
+Then note:
+
+One thing that works well
+One thing that feels risky or incorrect
+Update your prompt one time only and regenerate the assistant.
+
+Stop after this first improvement.
+
+Your task: Observe
+
+One thing that worked well
+One thing that needs improvement
+One change you made to your prompt
+Estimated Duration: 30 minutes
+
+Note: This is a practice activity and will not be graded or impact your programme completion. However, we strongly encourage participation for a more holistic learning experience.
