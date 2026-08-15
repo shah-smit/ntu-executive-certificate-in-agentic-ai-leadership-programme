@@ -1,0 +1,26 @@
+# Build with AI: Research report
+Lab tasks:
+Step 1: Get initial market trend ideas
+Click the “New chat” button on the left side menu to start a new chat with Gemini. Then, paste the prompt below and replace the text in [brackets] with your own details.
+
+I'm planning a [new product or service, e.g. new paint line] for my company. What [information, e.g. risks or market trends] should I be aware of?
+
+Review Gemini's response. You will use this as a starting point for a more in-depth analysis in the next step.
+
+Step 2: Start a Deep Research project
+Click the “New chat” button to start a new chat with Gemini. Then, select "Deep Research" from the "Tools" menu. Then, paste the prompt below and replace the text in [brackets] with your own details.
+
+I'm planning a [new product or service, e.g. new paint line] for my company. Research [specific market trend provided by Gemini in the previous step].
+
+Gemini will produce a "Research Plan." Review this plan before proceeding.
+
+Step 3: Refine the Research Plan
+In the same Deep Research chat, click "Edit Plan." Paste the prompt below and replace the text in [brackets] with your own details.
+
+Focus on [specific aspect of the topic you’re researching], use only sources from [desired time frame, e.g. the last 2 years], and be sure to include [specific data points, e.g. data on consumer adoption].
+
+Step 4: Kick off the research
+In the same Deep Research chat, click "Start Research." Check back in a few minutes to review your research report. 
+
+Step 5: Generate an infographic
+Once your research is complete, you can turn it into an infographic by clicking “Create” on the top right-hand side of the research report and selecting “Infographic.”
